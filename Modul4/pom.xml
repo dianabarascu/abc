@@ -6,11 +6,14 @@
         <artifactId>modul2</artifactId>
         <groupId>com.sda.java8</groupId>
         <version>1.0-SNAPSHOT</version>
-        <relativePath>../../SdaProject/Module 2/pom.xml</relativePath>
+        <relativePath>../../abc/Modul4/pom.xml</relativePath>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>modul4</artifactId>
-
+    <properties>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
+    </properties>
 
 </project>
