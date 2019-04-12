@@ -10,6 +10,10 @@ public class Application {
         System.out.println(queue.deenqueue());
         System.out.println(queue.deenqueue());
         System.out.println(queue.deenqueue());
+
+
+
     }
+
 
 }
